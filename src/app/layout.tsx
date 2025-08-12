@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "이때어때",
     description: "모두의 일정을 쉽고 빠르게 조율하는 서비스, 이때어때!",
     // url: "https://www.ittaeok.com/",
-    url: "https://ittaeok-lkh.org/", 
+    url: "https://ittaeok-lkh.org/",
     siteName: "이때어때",
     images: [
       {
