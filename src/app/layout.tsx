@@ -14,12 +14,12 @@ export const metadata: Metadata = {
     title: "이때어때",
     description: "모두의 일정을 쉽고 빠르게 조율하는 서비스, 이때어때!",
     // url: "https://www.ittaeok.com/",
-    url: "https://ittaeok-lkh.org/",
+    url: "https://www.ittaeok-lkh.org/",
     siteName: "이때어때",
     images: [
       {
         // url: "https://www.ittaeok.com/og-image.png",
-        url: "https://ittaeok-lkh.org/og-image.png",
+        url: "https://www.ittaeok-lkh.org/og-image.png",
         width: 1200,
         height: 630,
         alt: "이때어때",
