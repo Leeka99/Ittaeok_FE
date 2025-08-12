@@ -13,13 +13,13 @@ export const metadata: Metadata = {
   openGraph: {
     title: "이때어때",
     description: "모두의 일정을 쉽고 빠르게 조율하는 서비스, 이때어때!",
-    url: "https://www.ittaeok.com/",
-    // url: "http://34.64.215.22",
+    // url: "https://www.ittaeok.com/",
+    url: "http://34.64.215.22",
     siteName: "이때어때",
     images: [
       {
-        url: "https://www.ittaeok.com/og-image.png",
-        // url: "http://34.64.215.22/og-image.png",
+        // url: "https://www.ittaeok.com/og-image.png",
+        url: "http://34.64.215.22/og-image.png",
         width: 1200,
         height: 630,
         alt: "이때어때",
