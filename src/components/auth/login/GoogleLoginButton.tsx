@@ -3,7 +3,8 @@ import google from "@/assets/icon/google_login_icon.svg";
 
 const GoogleLoginButton = () => {
   const handleLogin = () => {
-    window.location.href = `${process.env.NEXT_PUBLIC_SERVER_BASE_URL}/oauth2/authorization/google`;
+    // window.location.href = `${process.env.NEXT_PUBLIC_SERVER_BASE_URL}/oauth2/authorization/google`;
+    window.location.href = `${process.env.NEXT_PUBLIC_SERVER_BASE_URL}/oauth2/code/google`;
   };
 
   return (
