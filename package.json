@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "codex:verify": "powershell -ExecutionPolicy Bypass -File ./scripts/codex-verify.ps1",
+    "codex:deploy": "powershell -ExecutionPolicy Bypass -File ./scripts/codex-deploy-github.ps1"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.14",
